@@ -1,3 +1,5 @@
+allow system_server pocket_service:service_manager { add find };
+
 # Freeform
 add_service(system_server, lmo_freeform_service);
 
