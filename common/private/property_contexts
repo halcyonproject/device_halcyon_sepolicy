@@ -14,6 +14,9 @@ ro.lineage.display.version             u:object_r:custom_version_prop:s0
 ro.lineage.build.version               u:object_r:custom_version_prop:s0
 ro.lineage.releasetype                 u:object_r:custom_version_prop:s0
 
+# DevicePropsSpoofing
+persist.sys.dps.disable                u:object_r:dps_disable_prop:s0
+
 # Radio
 ro.telephony.use_old_mnc_mcc_format    u:object_r:telephony_config_prop:s0
 

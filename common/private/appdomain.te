@@ -1,1 +1,2 @@
+get_prop(appdomain, dps_disable_prop)
 get_prop(appdomain, vendor_persist_camera_prop)
