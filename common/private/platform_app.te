@@ -1,0 +1,2 @@
+# DPS
+allow platform_app dps_prop:property_service set;

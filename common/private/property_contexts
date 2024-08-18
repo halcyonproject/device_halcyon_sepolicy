@@ -1,2 +1,4 @@
-# DevicePropsSpoofing
+# DPS
+persist.sys.dps.                                           u:object_r:dps_prop:s0
+
 ro.surface_flinger.supports_background_blur                u:object_r:disable_blur_prop:s0

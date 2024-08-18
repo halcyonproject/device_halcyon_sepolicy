@@ -1,2 +1,5 @@
 get_prop(appdomain, disable_blur_prop)
 
+
+# DPS
+get_prop(appdomain, dps_prop)
