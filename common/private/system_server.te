@@ -1,2 +1,5 @@
 # Freeform
 add_service(system_server, lmo_freeform_service);
+
+# App lock
+add_service(system_server, app_lock_service);
