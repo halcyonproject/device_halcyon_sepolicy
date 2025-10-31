@@ -1,0 +1,2 @@
+# DevicePropsSpoofing
+ro.surface_flinger.supports_background_blur                u:object_r:disable_blur_prop:s0

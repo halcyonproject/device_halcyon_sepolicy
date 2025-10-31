@@ -1,0 +1,2 @@
+# Disable blur
+set_prop(shell, disable_blur_prop)
