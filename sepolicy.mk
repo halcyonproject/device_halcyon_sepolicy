@@ -4,4 +4,4 @@
 #
 
 # Include common SEPolicy rules
-$(eval include device/halcyon/sepolicy/common/sepolicy.mk)
+include device/halcyon/sepolicy/common/sepolicy.mk
