@@ -1,3 +1,6 @@
 # DPS
 set_prop(system_app, dps_prop)
 get_prop(system_app, dps_prop)
+
+# Freeform
+allow system_app lmo_freeform_service:service_manager find;

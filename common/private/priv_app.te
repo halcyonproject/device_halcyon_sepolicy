@@ -1,0 +1,2 @@
+# Freeform
+allow priv_app lmo_freeform_service:service_manager find;
