@@ -2,3 +2,13 @@
 persist.sys.dps.                                           u:object_r:dps_prop:s0
 
 ro.surface_flinger.supports_background_blur                u:object_r:disable_blur_prop:s0
+
+# Version props
+ro.halcyon.build.date                                      u:object_r:custom_version_prop:s0
+ro.halcyon.build.number                                    u:object_r:custom_version_prop:s0
+ro.halcyon.build.type                                      u:object_r:custom_version_prop:s0
+ro.halcyon.build.variant                                   u:object_r:custom_version_prop:s0
+ro.halcyon.build.version                                   u:object_r:custom_version_prop:s0
+ro.halcyon.device                                          u:object_r:custom_version_prop:s0
+ro.halcyon.soc.marketname                                  u:object_r:custom_version_prop:s0
+ro.halcyon.version                                         u:object_r:custom_version_prop:s0

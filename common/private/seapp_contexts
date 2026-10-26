@@ -1,0 +1,2 @@
+# Updater
+user=_app isPrivApp=true seinfo=platform name=org.hlcyn.updater domain=updater_app type=app_data_file levelFrom=user
