@@ -1,6 +1,11 @@
 # Disable Blur
 ro.surface_flinger.supports_background_blur                u:object_r:disable_blur_prop:s0
 
+# Play Integrity staging props and the DroidGuard overrides built from them
+persist.sys.pif.                       u:object_r:pif_prop:s0
+ro.appcompat_override.                 u:object_r:pif_prop:s0
+sys.pif.overrides                      u:object_r:pif_prop:s0 exact
+
 # Version props
 ro.halcyon.build.date                                      u:object_r:custom_version_prop:s0
 ro.halcyon.build.number                                    u:object_r:custom_version_prop:s0

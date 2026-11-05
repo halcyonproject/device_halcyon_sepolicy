@@ -1,2 +1,5 @@
 # Disable Blur
 system_public_prop(disable_blur_prop)
+
+# Play Integrity staging props, served to DroidGuard by bionic
+system_internal_prop(pif_prop)

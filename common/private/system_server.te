@@ -7,3 +7,6 @@ add_service(system_server, lmo_freeform_service);
 
 # App lock
 add_service(system_server, app_lock_service);
+
+# Stage the Play Integrity props that bionic serves to DroidGuard
+set_prop(system_server, pif_prop)
