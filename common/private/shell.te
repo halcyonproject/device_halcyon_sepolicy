@@ -1,6 +1,2 @@
 # Disable blur
 set_prop(shell, disable_blur_prop)
-
-# DPS
-set_prop(shell, dps_prop)
-get_prop(shell, dps_prop)

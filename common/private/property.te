@@ -1,5 +1,2 @@
 # Disable Blur
 system_public_prop(disable_blur_prop)
-
-# Pixel props
-system_public_prop(dps_prop)
